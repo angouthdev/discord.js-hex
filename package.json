@@ -1,6 +1,6 @@
 {
-  "name": "djs-red",
-  "version": "1.3.3",
+  "name": "discordjs-red",
+  "version": "1.0.0",
   "description": "Get easy colors for djs embeds",
   "main": "./src/main.js",
   "directories": {
@@ -12,8 +12,8 @@
     "getRandomGenTest": "node ./test/tests/getRandomGenTest.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git@gitlab.com:TheCursedGroup/djs-red.git"
+    "type": "github",
+    "url": "https://github.com/angouthdev/discordjs-red/"
   },
   "keywords": [
     "discordjs",
@@ -21,10 +21,10 @@
     "djs-easy-color",
     "embeds"
   ],
-  "author": "Bacon_Space#1756, Hesh925#1482",
+  "author": "angouthdev",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/TheCursedGroup/djs-red/-/issues"
+    "url": "https://gitlab.com/angouthdev/discordjs-red/-/issues"
   },
-  "homepage": "https://gitlab.com/TheCursedGroup/djs-red/-/blob/main/README.md"
+  "homepage": "https://gitlab.com/angouthdev/discordjs-red/-/blob/main/README.md"
 }
