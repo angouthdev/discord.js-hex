@@ -1,7 +1,7 @@
 # DJS-Easy-Color
 <div align="center">
   <p>
-<a href="https://nodei.co/npm/discordjs-red/"><img src="https://nodei.co/npm/djs-red.png">
+<a href="https://nodei.co/npm/discordjs-red/"><img src="https://nodei.co/npm/discordjs-red.png">
 </p>
     <br />
     <p>
